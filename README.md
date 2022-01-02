@@ -1,6 +1,5 @@
-# Costumer-Student-Management-Excel
-Aplicación Excel - VBA para la gestión de clientes o Alumnos. Este sistema incluye un formulario de registro donde se rellenan los datos más importantes del cliente mientras la hoja realiza calculos como la fecha final del curso o servicio (30 días) o la gestión del pago docente (para el caso de usarlo con alumnos)
-Este sistema también incluye un filtro automático para Nombre, Curso, Correo, Empresa, fecha inicio y fin y docente. Solo basta colocar el dato de filtrado en cualquiera de los campos y presionar "enter"
+# Costumer Student Management VBA-Excel
+Excel-VBA application for customer or student management. This system includes a registration form where the most important data of the client is filled in while the sheet performs calculations such as the end date of the course or service (30 days) or the management of teacher payment (in the case of using it with students). It also includes an automatic filter for name, course, email, company, start and end date, and teacher. You just have to place the filtered data in any of the fields and press "enter". This application also has dynamic highlighting in the cells to make it more attractive.
 Esta aplicación tambien cuenta con un resaltado dinámico en las celdas para hacerlo más llamativo. 
 
 ![alt_text](https://github.com/jblanco89/Costumer-Student-Management-Excel/blob/master/screen1.JPG)
